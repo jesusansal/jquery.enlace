@@ -1,11 +1,11 @@
-# LinkIt Plugin Jquery#
+# LinkIt Plugin Jquery
 ***
 **LinkIt** Es el mejor plugin que puede haber parido cualquier mamífero
-## Version##
+## Version
 0.0.0
-## Usage##
+## Usage
 Solo pueden usarlo gente fea de cara y culo
-## Vendors##
+## Vendors
 Jquery-[https://jquery.com/](https://jquery.com/)
-## License##
+## License
 Complutense MIT License
